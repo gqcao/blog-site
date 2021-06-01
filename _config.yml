@@ -23,7 +23,7 @@ email: Firstname.Lastname@ieee.org
 description: >- # this means to ignore newlines until "baseurl:"
   Here is my blog about technology and self-development.
 baseurl: "/blog" # the subpath of your site, e.g. /blog
-url: "https://gqcao.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://guanquncao.com/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: GuanqunCao 
 github_username:  gqcao 
 
